@@ -1,9 +1,8 @@
-# coding101
+# CODING101 App
 
-A new Flutter project.
+Mobile App for CODING101 using Flutter. :+1:
 
 ## Getting Started
 
 For help getting started with Flutter, view our online
 [documentation](https://flutter.io/).
-# coding101-app
