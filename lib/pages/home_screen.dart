@@ -5,7 +5,7 @@ class HomeScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     return Center(
       child: Text(
-        "Home",
+        "Home Tab",
         style: TextStyle(
           fontSize: 20.0
         ),

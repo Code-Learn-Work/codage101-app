@@ -35,7 +35,7 @@ class _HomePageState extends State<HomePage> with SingleTickerProviderStateMixin
     return Scaffold(
       appBar: new AppBar(
         backgroundColor: Colors.red,
-        title: Text("Coding101"),
+        title: Text("Codage101"),
         actions: <Widget>[
           Padding(
             padding: const EdgeInsets.all(8.0),

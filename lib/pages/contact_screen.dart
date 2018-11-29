@@ -10,7 +10,7 @@ class _ContactScreenState extends State<ContactScreen> {
   Widget build(BuildContext context) {
     return Center(
       child: Text(
-        "Contact",
+        "Contact Tab",
         style: TextStyle(
           fontSize: 20.0
         ),

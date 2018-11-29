@@ -5,7 +5,7 @@ class BioScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     return Center(
       child: Text(
-        "Bio",
+        "Bio Tab",
         style: TextStyle(
           fontSize: 20.0
         ),
