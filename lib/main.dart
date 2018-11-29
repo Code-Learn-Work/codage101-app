@@ -1,6 +1,3 @@
-import 'package:coding101/pages/bio_screen.dart';
-import 'package:coding101/pages/contact_screen.dart';
-import 'package:coding101/pages/home_screen.dart';
 import "package:flutter/material.dart";
 
 void main() => runApp(MyApp());
